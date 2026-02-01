@@ -7,8 +7,8 @@ go 1.23.0
 toolchain go1.24.3
 
 require (
-	github.com/sofianhadi1983/anthropic-sdk-go v0.0.0-00010101000000-000000000000
 	github.com/invopop/jsonschema v0.12.0
+	github.com/sofianhadi1983/anthropic-sdk-go v0.0.0-00010101000000-000000000000
 )
 
 require (
@@ -24,6 +24,7 @@ require (
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/google/s2a-go v0.1.7 // indirect
 	github.com/googleapis/enterprise-certificate-proxy v0.3.2 // indirect
+	github.com/joho/godotenv v1.5.1 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/tidwall/gjson v1.18.0 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
