@@ -10,10 +10,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/anthropics/anthropic-sdk-go"
-	"github.com/anthropics/anthropic-sdk-go/internal/testutil"
-	"github.com/anthropics/anthropic-sdk-go/option"
-	"github.com/anthropics/anthropic-sdk-go/shared/constant"
+	"github.com/sofianhadi1983/anthropic-sdk-go"
+	"github.com/sofianhadi1983/anthropic-sdk-go/internal/testutil"
+	"github.com/sofianhadi1983/anthropic-sdk-go/option"
+	"github.com/sofianhadi1983/anthropic-sdk-go/shared/constant"
 )
 
 func TestMessageNewWithOptionalParams(t *testing.T) {

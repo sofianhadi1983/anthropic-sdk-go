@@ -13,14 +13,14 @@ import (
 	"net/url"
 	"slices"
 
-	"github.com/anthropics/anthropic-sdk-go/internal/apiform"
-	"github.com/anthropics/anthropic-sdk-go/internal/apijson"
-	"github.com/anthropics/anthropic-sdk-go/internal/apiquery"
-	"github.com/anthropics/anthropic-sdk-go/internal/requestconfig"
-	"github.com/anthropics/anthropic-sdk-go/option"
-	"github.com/anthropics/anthropic-sdk-go/packages/pagination"
-	"github.com/anthropics/anthropic-sdk-go/packages/param"
-	"github.com/anthropics/anthropic-sdk-go/packages/respjson"
+	"github.com/sofianhadi1983/anthropic-sdk-go/internal/apiform"
+	"github.com/sofianhadi1983/anthropic-sdk-go/internal/apijson"
+	"github.com/sofianhadi1983/anthropic-sdk-go/internal/apiquery"
+	"github.com/sofianhadi1983/anthropic-sdk-go/internal/requestconfig"
+	"github.com/sofianhadi1983/anthropic-sdk-go/option"
+	"github.com/sofianhadi1983/anthropic-sdk-go/packages/pagination"
+	"github.com/sofianhadi1983/anthropic-sdk-go/packages/param"
+	"github.com/sofianhadi1983/anthropic-sdk-go/packages/respjson"
 )
 
 // BetaSkillVersionService contains methods and other services that help with

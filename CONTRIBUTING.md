@@ -41,7 +41,7 @@ To use a local version of this library from source in another project, edit the 
 directive. This can be done through the CLI with the following:
 
 ```sh
-$ go mod edit -replace github.com/anthropics/anthropic-sdk-go=/path/to/anthropic-sdk-go
+$ go mod edit -replace github.com/sofianhadi1983/anthropic-sdk-go=/path/to/anthropic-sdk-go
 ```
 
 ## Running tests

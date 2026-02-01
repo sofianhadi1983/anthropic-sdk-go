@@ -1,7 +1,7 @@
 package apijson
 
 import (
-	"github.com/anthropics/anthropic-sdk-go/packages/respjson"
+	"github.com/sofianhadi1983/anthropic-sdk-go/packages/respjson"
 	"reflect"
 )
 

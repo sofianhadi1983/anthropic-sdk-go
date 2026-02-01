@@ -12,15 +12,15 @@ import (
 	"slices"
 	"time"
 
-	"github.com/anthropics/anthropic-sdk-go/internal/apijson"
-	"github.com/anthropics/anthropic-sdk-go/internal/apiquery"
-	"github.com/anthropics/anthropic-sdk-go/internal/requestconfig"
-	"github.com/anthropics/anthropic-sdk-go/option"
-	"github.com/anthropics/anthropic-sdk-go/packages/jsonl"
-	"github.com/anthropics/anthropic-sdk-go/packages/pagination"
-	"github.com/anthropics/anthropic-sdk-go/packages/param"
-	"github.com/anthropics/anthropic-sdk-go/packages/respjson"
-	"github.com/anthropics/anthropic-sdk-go/shared/constant"
+	"github.com/sofianhadi1983/anthropic-sdk-go/internal/apijson"
+	"github.com/sofianhadi1983/anthropic-sdk-go/internal/apiquery"
+	"github.com/sofianhadi1983/anthropic-sdk-go/internal/requestconfig"
+	"github.com/sofianhadi1983/anthropic-sdk-go/option"
+	"github.com/sofianhadi1983/anthropic-sdk-go/packages/jsonl"
+	"github.com/sofianhadi1983/anthropic-sdk-go/packages/pagination"
+	"github.com/sofianhadi1983/anthropic-sdk-go/packages/param"
+	"github.com/sofianhadi1983/anthropic-sdk-go/packages/respjson"
+	"github.com/sofianhadi1983/anthropic-sdk-go/shared/constant"
 )
 
 // BetaMessageBatchService contains methods and other services that help with

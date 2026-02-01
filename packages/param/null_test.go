@@ -2,7 +2,7 @@ package param_test
 
 import (
 	"encoding/json"
-	"github.com/anthropics/anthropic-sdk-go/packages/param"
+	"github.com/sofianhadi1983/anthropic-sdk-go/packages/param"
 	"testing"
 )
 

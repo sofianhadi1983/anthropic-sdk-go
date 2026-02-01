@@ -2,8 +2,8 @@ package apijson_test
 
 import (
 	"encoding/json"
-	"github.com/anthropics/anthropic-sdk-go/internal/apijson"
-	"github.com/anthropics/anthropic-sdk-go/packages/respjson"
+	"github.com/sofianhadi1983/anthropic-sdk-go/internal/apijson"
+	"github.com/sofianhadi1983/anthropic-sdk-go/packages/respjson"
 	"testing"
 )
 

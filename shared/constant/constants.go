@@ -3,7 +3,7 @@
 package constant
 
 import (
-	shimjson "github.com/anthropics/anthropic-sdk-go/internal/encoding/json"
+	shimjson "github.com/sofianhadi1983/anthropic-sdk-go/internal/encoding/json"
 )
 
 // ModelNonStreamingTokens defines the maximum tokens for models that should limit

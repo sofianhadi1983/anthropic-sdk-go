@@ -3,9 +3,9 @@
 package anthropic
 
 import (
-	"github.com/anthropics/anthropic-sdk-go/internal/apierror"
-	"github.com/anthropics/anthropic-sdk-go/packages/param"
-	"github.com/anthropics/anthropic-sdk-go/shared"
+	"github.com/sofianhadi1983/anthropic-sdk-go/internal/apierror"
+	"github.com/sofianhadi1983/anthropic-sdk-go/packages/param"
+	"github.com/sofianhadi1983/anthropic-sdk-go/shared"
 )
 
 // aliased to make [param.APIUnion] private when embedding

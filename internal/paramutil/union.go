@@ -2,7 +2,7 @@ package paramutil
 
 import (
 	"fmt"
-	"github.com/anthropics/anthropic-sdk-go/packages/param"
+	"github.com/sofianhadi1983/anthropic-sdk-go/packages/param"
 	"reflect"
 )
 

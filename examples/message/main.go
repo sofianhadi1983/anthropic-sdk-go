@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 
-	"github.com/anthropics/anthropic-sdk-go"
+	"github.com/sofianhadi1983/anthropic-sdk-go"
 )
 
 func main() {

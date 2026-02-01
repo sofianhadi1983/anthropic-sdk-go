@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	shimjson "github.com/anthropics/anthropic-sdk-go/internal/encoding/json"
+	shimjson "github.com/sofianhadi1983/anthropic-sdk-go/internal/encoding/json"
 
 	"github.com/tidwall/sjson"
 )

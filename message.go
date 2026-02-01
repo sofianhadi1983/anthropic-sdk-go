@@ -9,14 +9,14 @@ import (
 	"reflect"
 	"slices"
 
-	"github.com/anthropics/anthropic-sdk-go/internal/apijson"
-	"github.com/anthropics/anthropic-sdk-go/internal/paramutil"
-	"github.com/anthropics/anthropic-sdk-go/internal/requestconfig"
-	"github.com/anthropics/anthropic-sdk-go/option"
-	"github.com/anthropics/anthropic-sdk-go/packages/param"
-	"github.com/anthropics/anthropic-sdk-go/packages/respjson"
-	"github.com/anthropics/anthropic-sdk-go/packages/ssestream"
-	"github.com/anthropics/anthropic-sdk-go/shared/constant"
+	"github.com/sofianhadi1983/anthropic-sdk-go/internal/apijson"
+	"github.com/sofianhadi1983/anthropic-sdk-go/internal/paramutil"
+	"github.com/sofianhadi1983/anthropic-sdk-go/internal/requestconfig"
+	"github.com/sofianhadi1983/anthropic-sdk-go/option"
+	"github.com/sofianhadi1983/anthropic-sdk-go/packages/param"
+	"github.com/sofianhadi1983/anthropic-sdk-go/packages/respjson"
+	"github.com/sofianhadi1983/anthropic-sdk-go/packages/ssestream"
+	"github.com/sofianhadi1983/anthropic-sdk-go/shared/constant"
 	"github.com/tidwall/gjson"
 )
 

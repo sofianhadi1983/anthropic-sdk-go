@@ -23,9 +23,9 @@ import (
 	"github.com/tidwall/gjson"
 	"github.com/tidwall/sjson"
 
-	"github.com/anthropics/anthropic-sdk-go/internal/requestconfig"
-	"github.com/anthropics/anthropic-sdk-go/option"
-	"github.com/anthropics/anthropic-sdk-go/packages/ssestream"
+	"github.com/sofianhadi1983/anthropic-sdk-go/internal/requestconfig"
+	"github.com/sofianhadi1983/anthropic-sdk-go/option"
+	"github.com/sofianhadi1983/anthropic-sdk-go/packages/ssestream"
 )
 
 const DefaultVersion = "bedrock-2023-05-31"
